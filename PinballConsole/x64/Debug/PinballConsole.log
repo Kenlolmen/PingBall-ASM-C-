@@ -1,0 +1,105 @@
+﻿  PinballConsole.cpp
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(23,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(25,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(25,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(25,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,9): error C2146: syntax error: missing ';' before identifier 'shr'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,9): error C2065: 'shr': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,21): error C2065: 'Dzielenie': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,31): error C2146: syntax error: missing ';' before identifier 'przez'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,31): error C2065: 'przez': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(26,37): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(27,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(27,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(27,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(27,26): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(29,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(29,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(29,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(29,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(30,9): error C2146: syntax error: missing ';' before identifier 'shr'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(30,9): error C2065: 'shr': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(30,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(30,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(31,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(31,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(31,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(31,26): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(34,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(34,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(34,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(35,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(35,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(35,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(38,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(38,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(38,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(38,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(39,9): error C2146: syntax error: missing ';' before identifier 'sub'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(39,9): error C2065: 'sub': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(39,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(39,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(40,9): error C2146: syntax error: missing ';' before identifier 'shr'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(40,9): error C2065: 'shr': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(40,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(40,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(41,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(41,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(41,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(41,29): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(42,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(42,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(42,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(42,29): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(45,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(45,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(45,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(46,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(46,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(46,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(47,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(51,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(53,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(53,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(53,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(54,9): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(54,9): error C2065: 'add': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(54,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(54,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(55,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(55,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(55,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(55,26): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(58,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(58,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(58,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(58,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(59,9): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(59,9): error C2065: 'add': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(59,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(59,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(60,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(60,9): error C2065: 'mov': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(60,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(60,26): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(63,9): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(63,9): error C2065: 'cmp': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(63,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(63,13): error C2065: 'eax': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(64,9): error C2146: syntax error: missing ';' before identifier 'jg'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(64,9): error C2065: 'jg': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(64,12): error C2146: syntax error: missing ';' before identifier 'check_bottom'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(64,12): error C2065: 'check_bottom': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(65,9): error C2146: syntax error: missing ';' before identifier 'neg'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(65,9): error C2065: 'neg': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(65,13): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(66,9): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(66,9): error C2065: 'jmp': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(66,13): error C2146: syntax error: missing ';' before identifier 'check_paddles'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(66,13): error C2065: 'check_paddles': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(68,9): error C2146: syntax error: missing ';' before identifier 'check_bottom'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(69,9): error C2065: 'cmp': undeclared identifier
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(69,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Lenovo\source\repos\PinballConsole\PinballConsole\PinballConsole.cpp(69,13): error C1003: error count exceeds 100; stopping compilation

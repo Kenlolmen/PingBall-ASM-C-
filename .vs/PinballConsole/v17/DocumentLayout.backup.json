@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\PinballConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC8300E-06BA-44BC-921F-ED484CF01813}|PinballConsole\\PinballConsole.vcxproj|C:\\Users\\Lenovo\\source\\repos\\PinballConsole\\PinballConsole\\PinballConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AC8300E-06BA-44BC-921F-ED484CF01813}|PinballConsole\\PinballConsole.vcxproj|solutionrelative:PinballConsole\\PinballConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinballConsole.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PinballConsole\\PinballConsole\\PinballConsole.cpp",
+              "RelativeDocumentMoniker": "PinballConsole\\PinballConsole.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PinballConsole\\PinballConsole\\PinballConsole.cpp",
+              "RelativeToolTip": "PinballConsole\\PinballConsole.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T17:42:53.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
